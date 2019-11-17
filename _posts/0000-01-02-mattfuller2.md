@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+"Everybody wanna be famous, nobody wanna put the work in."
 Use the left arrow to go back!
